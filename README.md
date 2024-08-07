@@ -1,7 +1,7 @@
 ### Sou Rafael Taiki Hamasaki
 
 - 😎 Estudante do curso técnico do IFSULDEMINAS - CAMPUS MACHADO
-- 🍵 Estudando Java e C#
+- 🍵 Estudando Java e Javascript
 
 <h2><b>Contatos:</b></h2>
 <div>
